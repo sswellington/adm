@@ -20,6 +20,7 @@
 
 ## Referências:
 * ARON, Raymond. As etapas do pensamento sociológico. São Paulo, Marins Fontes, 2008.(p. 65-104).
+* CASTRO, Celso. Textos Básicos de Sociologia - De Karl Marx a Zigmund Bauman.
 * DURKEIM, Emile. As regras do método sociológico. São Paulo, Editora Nacional, 1990. cap. I e II.
 * DURKEIM, Emile. Os pensadores. São Paulo, Abril, 1978. p. 326-372.
 * DURKHEIM, Emile. Da divisão social do trabalho. São Paulo: Martins Fontes, 1999.
@@ -28,4 +29,3 @@
 outros textos escolhidos/Karl Marx, São Paulo, Editora Abril Cultural, 1978 p.103-125.
 * QUINTANEIRO T; BARBOSA, M.; OLIVEIRA, M. Um toque de clássicos: Marx, Durkheim, Weber: Editora UFMG, 2003
 * WEBER, Max. Ensaios de Sociologia. Rio de Janeiro, RTC, 1982.
-

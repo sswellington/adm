@@ -24,6 +24,7 @@ Caracterizar a dimensão política no conjunto das relações sociais, apresenta
 
 
 ## Referência
+* AVRITZER, Leonardo e ANASTASIA, Fátima, Reforma política no Brasil, Editora UFMG (2006).
 * BOBBIO, Noberto. Estado, Governo, Sociedade: para uma teoria geral da política. Ed. Paz e Terra, Rio de Janeiro, 1989.
 * BRESSER-PEREIRA, Luiz Carlos. Burocracia pública e classes dirigen
 * DAHL, Robert. Um Prefácio à Teoria Democrática, Rio de Janeiro, Jorge Zahar Ed. 1989.

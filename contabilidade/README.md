@@ -30,10 +30,17 @@ Patrimônio:
 Encerramento do exercício: balancete de verificação; 
 
 Demonstrações de resultados. 
- 
+
 ## CONTEÚDO PROGRAMÁTICO: 
-1. A estrutura da contabilidade. 
-2. Balanço Patrimonial. 
+00. Conceito
+    * A estrutura da contabilidade. 
+01. Patrimônio
+    * Situação Líquida e Equação Fundamental Do Patrimônio 
+        * Balanço Patrimonial
+    * Funções e Estrutura das Contas
+        * Razonetes e contas
+02. Fatos contábeis
+    *  Balancete de Verificação 
 3. Apuração de resultado. 
 4. Demonstrações contábeis e financeiras. 
 5. Análise de balanço. 
