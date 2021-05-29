@@ -46,7 +46,7 @@ Média e Frequência
 
 ## BIBLIOGRAFIA RECOMENDADA: 
 * MANKIW, N. Gregory. Introdução à Economia. São Paulo. Thomson Pioneira. 2005. 
+* NOGAMI, Otto e PASSOS, Carlos Roberto. Princípios de Economia. São Paulo. Thomson Pioneira. 2005.
 * ROSSETTI, J. Paschoal. Introdução à Economia.São Paulo. Editora Atlas, 2003. 
 * VASCONCELLOS, M. A.S. e GARCIA, M. E. Fundamentos de Economia. São Paulo, 1998: Editora Saraiva 
 * VICECONT, P. E. V. Introdução à Economia. 2ª edição revisada e ampliada. São Paulo, 1996: Frase Editora 
-* NOGAMI, Otto e PASSOS, Carlos Roberto. Princípios de Economia. São Paulo. Thomson Pioneira. 2005.

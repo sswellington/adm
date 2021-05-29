@@ -28,5 +28,7 @@ Caracterizar a dimensão política no conjunto das relações sociais, apresenta
 * BOBBIO, Noberto. Estado, Governo, Sociedade: para uma teoria geral da política. Ed. Paz e Terra, Rio de Janeiro, 1989.
 * BRESSER-PEREIRA, Luiz Carlos. Burocracia pública e classes dirigen
 * DAHL, Robert. Um Prefácio à Teoria Democrática, Rio de Janeiro, Jorge Zahar Ed. 1989.
+* LIMA, Luciana e SCHABBACH,  Letícia. Políticas Públicas: questões teórico-metodológicas emergentes. 
 * NUNES, Edson. "A gramática política do Brasil." Rio de Janeiro: Jorge Zahar(1997).
+* RUAS, Maria das Graças, Para Aprender Políticas Públicas. 2013.
 * SHUMPETER, Joseph A. "Capitalismo, socialismo e democracia." Editado por George Allen e Unwin Ltd (1984).
