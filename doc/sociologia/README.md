@@ -14,10 +14,6 @@
 6. O sistema político-administrativo e a sociedade.  
 
 
-## Relatórios
-* Um toque de clássicos: Marx,Durkheim, Weber
-
-
 ## Referências:
 * ARON, Raymond. As etapas do pensamento sociológico. São Paulo, Marins Fontes, 2008.(p. 65-104).
 * CASTRO, Celso. Textos Básicos de Sociologia - De Karl Marx a Zigmund Bauman.
@@ -27,5 +23,9 @@
 * MARX, Karl. "Prefácio", em Manuscritos Econômicos-filosóficos e outros textos escolhidos/Karl Marx. São Paulo, Editora Abril Cultural, 1978 (Os Pensadores).p.127-131.
 * MARX, Karl. Introdução [à Crítica da Economia Política] em Manuscritos Econômicos- filosóficos e
 outros textos escolhidos/Karl Marx, São Paulo, Editora Abril Cultural, 1978 p.103-125.
+* MARX, Karl. "O caráter fetichista da mercadoria e seu segredo" in O Capital. Críticada Economia Política, São Paulo, Editora Abril, 1983, (no. de páginas a ser indicado)
+* MARX, Karl e ENGELS, Friedrich. A luta de classes na Alemanha. São Paulo: Boitempo Editora, 2010.
 * QUINTANEIRO T; BARBOSA, M.; OLIVEIRA, M. Um toque de clássicos: Marx, Durkheim, Weber: Editora UFMG, 2003
 * WEBER, Max. Ensaios de Sociologia. Rio de Janeiro, RTC, 1982.
+* WEBER, Max. A ética protestante e o espírito do capitalismo. São Paulo. Pioneira, 1897. 
+* WEBER, Max. Economia e Sociedade. Brasília, Unb, 1991. Vol. 1. WEBER, Max. Ensaios de Sociologia. Rio de Janeiro, RTC, 1982. 
