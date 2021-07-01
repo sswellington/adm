@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1717.1801"
+   height="1124.03"
+   id="svg1936"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docname="Maslow's_hierarchy_of_needs.svg"
+   sodipodi:docbase="/home/felipe/Desktop"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata69">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="626"
+     inkscape:window-width="910"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.36208997"
+     inkscape:cx="858.59003"
+     inkscape:cy="542.86969"
+     inkscape:window-x="121"
+     inkscape:window-y="73"
+     inkscape:current-layer="svg1936" />
+  <defs
+     id="defs1938">
+    <linearGradient
+       id="linearGradient5561">
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0"
+         id="stop5563" />
+      <stop
+         style="stop-color:#807eed;stop-opacity:1"
+         offset="1"
+         id="stop5565" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5597">
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0"
+         id="stop5599" />
+      <stop
+         style="stop-color:#18fe04;stop-opacity:1"
+         offset="1"
+         id="stop5601" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5587">
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0"
+         id="stop5589" />
+      <stop
+         style="stop-color:#fefc04;stop-opacity:1"
+         offset="1"
+         id="stop5591" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5577">
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0"
+         id="stop5579" />
+      <stop
+         style="stop-color:#ff8207;stop-opacity:1"
+         offset="1"
+         id="stop5581" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2762">
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0"
+         id="stop2764" />
+      <stop
+         style="stop-color:#f90909;stop-opacity:1"
+         offset="1"
+         id="stop2766" />
+    </linearGradient>
+    <radialGradient
+       cx="334.28568"
+       cy="439.51736"
+       r="262.46866"
+       fx="334.28568"
+       fy="439.51736"
+       id="radialGradient9273"
+       xlink:href="#linearGradient5561"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.134697,1.134697,-1.156074,-1.156074,1957.031,347.5224)" />
+    <radialGradient
+       cx="279.99408"
+       cy="530.66846"
+       r="263.681"
+       fx="279.99408"
+       fy="530.66846"
+       id="radialGradient9283"
+       xlink:href="#linearGradient5597"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.842556,2.842556,-2.463476,-2.463476,3172.792,661.2344)" />
+    <radialGradient
+       cx="279.99408"
+       cy="530.66846"
+       r="263.681"
+       fx="279.99408"
+       fy="530.66846"
+       id="radialGradient9291"
+       xlink:href="#linearGradient5587"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.449006,3.449006,-2.989051,-2.989051,3621.501,801.9635)" />
+    <radialGradient
+       cx="279.99408"
+       cy="530.66846"
+       r="263.681"
+       fx="279.99408"
+       fy="530.66846"
+       id="radialGradient9300"
+       xlink:href="#linearGradient5577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.010533,4.010533,-3.475693,-3.475693,4036.971,932.2677)" />
+    <radialGradient
+       cx="279.99408"
+       cy="530.66846"
+       r="263.681"
+       fx="279.99408"
+       fy="530.66846"
+       id="radialGradient9312"
+       xlink:href="#linearGradient2762"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.56083,4.56083,-3.952603,-3.952603,4444.131,1059.966)" />
+    <radialGradient
+       cx="334.28568"
+       cy="439.51736"
+       r="262.46866"
+       fx="334.28568"
+       fy="439.51736"
+       id="radialGradient1956"
+       xlink:href="#linearGradient5561"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.134697,1.134697,-1.156074,-1.156074,1957.031,347.5224)" />
+    <radialGradient
+       cx="279.99408"
+       cy="530.66846"
+       r="263.681"
+       fx="279.99408"
+       fy="530.66846"
+       id="radialGradient1966"
+       xlink:href="#linearGradient5597"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.842556,2.842556,-2.463476,-2.463476,3172.792,661.2344)" />
+    <radialGradient
+       cx="279.99408"
+       cy="530.66846"
+       r="263.681"
+       fx="279.99408"
+       fy="530.66846"
+       id="radialGradient1974"
+       xlink:href="#linearGradient5587"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.449006,3.449006,-2.989051,-2.989051,3621.501,801.9635)" />
+    <radialGradient
+       cx="279.99408"
+       cy="530.66846"
+       r="263.681"
+       fx="279.99408"
+       fy="530.66846"
+       id="radialGradient1983"
+       xlink:href="#linearGradient5577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.010533,4.010533,-3.475693,-3.475693,4036.971,932.2677)" />
+    <radialGradient
+       cx="279.99408"
+       cy="530.66846"
+       r="263.681"
+       fx="279.99408"
+       fy="530.66846"
+       id="radialGradient1989"
+       xlink:href="#linearGradient2762"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.56083,4.56083,-3.952603,-3.952603,4444.131,1059.966)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5561"
+       id="radialGradient2236"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.134697,1.134697,-1.156074,-1.156074,1957.031,347.5224)"
+       cx="334.28568"
+       cy="439.51736"
+       fx="334.28568"
+       fy="439.51736"
+       r="262.46866" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5597"
+       id="radialGradient2246"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.842556,2.842556,-2.463476,-2.463476,3172.792,661.2344)"
+       cx="279.99408"
+       cy="530.66846"
+       fx="279.99408"
+       fy="530.66846"
+       r="263.681" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5587"
+       id="radialGradient2254"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.449006,3.449006,-2.989051,-2.989051,3621.501,801.9635)"
+       cx="279.99408"
+       cy="530.66846"
+       fx="279.99408"
+       fy="530.66846"
+       r="263.681" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5577"
+       id="radialGradient2263"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.010533,4.010533,-3.475693,-3.475693,4036.971,932.2677)"
+       cx="279.99408"
+       cy="530.66846"
+       fx="279.99408"
+       fy="530.66846"
+       r="263.681" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2762"
+       id="radialGradient2267"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.56083,4.56083,-3.952603,-3.952603,4444.131,1059.966)"
+       cx="279.99408"
+       cy="530.66846"
+       fx="279.99408"
+       fy="530.66846"
+       r="263.681" />
+  </defs>
+  <path
+     id="path1874"
+     style="fill:url(#radialGradient2267);fill-opacity:1;stroke:#000000;stroke-width:5.95470667;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1069.6036,4.5858812 L 1714.1962,1121.0529 L 425.01104,1121.0529 L 1069.6036,4.5858812 z " />
+  <path
+     id="path2898"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:6.07379913;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 426.14583,1120.6179 L 3.0364741,1120.6179" />
+  <path
+     id="path5573"
+     style="fill:url(#radialGradient2263);fill-opacity:1;stroke:#000000;stroke-width:5.95470428;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1069.6037,4.2265997 L 1636.4215,985.98392 L 502.78582,985.98389 L 1069.6037,4.2265997 z " />
+  <text
+     xml:space="preserve"
+     id="text2786"
+     style="font-size:23.81882095px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="907.10968"
+     x="1072.5439"><tspan
+       id="tspan2788"
+       style="font-size:40.49199295px;text-align:center;text-anchor:middle"
+       y="907.10968"
+       x="1078.9895">segurança do corpo, do emprego, de recursos, </tspan><tspan
+       id="tspan2848"
+       style="font-size:40.49199295px;text-align:center;text-anchor:middle"
+       y="957.72467"
+       x="1072.5439">da moralidade, da família, da saúde, da propriedade</tspan></text>
+  <path
+     id="path2896"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:6.07379913;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1632.6356,984.46887 L 3.0364741,984.46887" />
+  <text
+     xml:space="preserve"
+     id="text2790"
+     style="font-size:52px;fill:#fefc04;fill-opacity:1;stroke:#747474;stroke-width:1.19094098;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+     y="831.62555"
+     x="2.6449854"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan2792"
+       y="831.62555"
+       x="2.6449854"
+       style="font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:52px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Amor/Relacionamento</tspan></text>
+  <path
+     id="path5583"
+     style="fill:url(#radialGradient2254);fill-opacity:1;stroke:#000000;stroke-width:5.95470333;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1069.6038,3.860196 L 1557.0598,848.15874 L 582.14781,848.15872 L 1069.6038,3.860196 z " />
+  <text
+     xml:space="preserve"
+     id="text2794"
+     style="font-size:23.81882095px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="789.66998"
+     x="720.9035"><tspan
+       id="tspan2796"
+       style="font-size:40.49199295px"
+       y="789.66998"
+       x="720.9035">amizade, familia, intimidade sexual</tspan></text>
+  <path
+     id="path2894"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:6.07379913;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1556.1562,850.01838 L 3.0364741,848.31984" />
+  <text
+     xml:space="preserve"
+     id="text2798"
+     style="font-size:64.30000305px;font-style:normal;font-weight:normal;fill:#18fe04;fill-opacity:1;stroke:#747474;stroke-width:1.19094098;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="687.5246"
+     x="2.6449854"><tspan
+       id="tspan2800"
+       y="687.5246"
+       x="2.6449854">Estima</tspan></text>
+  <path
+     id="path5593"
+     style="fill:url(#radialGradient2246);fill-opacity:1;stroke:#000000;stroke-width:5.95470381;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1069.6038,3.464222 L 1471.3488,699.307 L 667.85875,699.30699 L 1069.6038,3.464222 z " />
+  <text
+     xml:space="preserve"
+     id="text2802"
+     style="font-size:35px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+     y="569.82538"
+     x="1067.9675"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan2880"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="569.82538"
+       x="1067.9675">auto-estima,</tspan><tspan
+       id="tspan2888"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="620.44037"
+       x="1067.9675">confiança, conquista,</tspan><tspan
+       id="tspan2852"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="671.05536"
+       x="1067.9675">respeito dos outros, respeito aos outros</tspan></text>
+  <path
+     id="path2892"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5.95470524;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1467.1622,697.90466 L 3.0364741,699.6032" />
+  <text
+     sodipodi:linespacing="125%"
+     xml:space="preserve"
+     id="text2806"
+     style="font-size:64.30000305px;font-style:normal;font-weight:normal;line-height:125%;fill:#807eed;fill-opacity:1;stroke:#747474;stroke-width:1.19094098;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="509.53333"
+     x="4.9187059"><tspan
+       id="tspan2808"
+       y="509.53333"
+       x="4.9187059">Realização Pessoal</tspan></text>
+  <path
+     id="path4670"
+     style="fill:url(#radialGradient2236);fill-opacity:1;stroke:#000000;stroke-width:5.95470381;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1069.6034,2.9801776 L 1366.5903,517.37667 L 772.6164,517.37666 L 1069.6034,2.9801776 z " />
+  <text
+     xml:space="preserve"
+     id="text2810"
+     style="font-size:35px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+     y="221.57747"
+     x="1072.4858"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan2812"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="221.57747"
+       x="1072.4858">moralidade,</tspan><tspan
+       id="tspan2874"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="272.19244"
+       x="1072.4858">criatividade,</tspan><tspan
+       id="tspan2872"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="322.80746"
+       x="1072.4858">espontaneidade,</tspan><tspan
+       id="tspan2878"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="373.42245"
+       x="1072.4858">solução de problemas,</tspan><tspan
+       id="tspan2854"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="424.03745"
+       x="1072.4858">ausência de preconceito,</tspan><tspan
+       id="tspan2870"
+       style="font-size:35px;text-align:center;text-anchor:middle;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%"
+       y="474.6524"
+       x="1072.4858">aceitação dos fatos</tspan></text>
+  <path
+     id="path2890"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:6.07379913;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1366.7357,517.37295 L 3.0364741,519.46755" />
+  <text
+     xml:space="preserve"
+     id="text9318"
+     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1067.2131"
+     x="487.64139"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan9320"
+       style="font-size:38px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+       y="1067.2131"
+       x="487.64139">respiração, comida, água, sexo, sono, homeostase, excreção</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     xml:space="preserve"
+     id="text1991"
+     style="font-size:64.30000305px;font-style:normal;font-weight:normal;line-height:125%;fill:#ff8207;fill-opacity:1;stroke:#747474;stroke-width:1.19094098;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="966.80969"
+     x="4.8969936"><tspan
+       id="tspan1993"
+       y="966.80969"
+       x="4.8969936">Segurança</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     xml:space="preserve"
+     id="text1995"
+     style="font-size:64.30000305px;font-style:normal;font-weight:normal;line-height:125%;fill:#f90909;fill-opacity:1;stroke:#747474;stroke-width:1.19094098;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1101.9857"
+     x="2.8248258"><tspan
+       id="tspan1997"
+       y="1101.9857"
+       x="2.8248258">Fisiologia</tspan></text>
+</svg>
